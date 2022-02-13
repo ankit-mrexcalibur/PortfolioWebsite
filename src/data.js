@@ -2,7 +2,7 @@ export const projects = [
     {
         id:1,
         img: "https://i.ibb.co/fYMkVb9/screenshot.png",
-        link: "http://ankitkamat.com/",
+        link: "https://github.com/ankit-mrexcalibur/PortfolioWebsite",
     },
     {
         id:2,
