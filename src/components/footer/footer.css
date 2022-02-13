@@ -1,0 +1,27 @@
+
+.footer{
+    width: 100%;
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
+
+.footer-content{
+    display: flex;
+    float: left;
+    width: 100%;
+    padding: 20px 0;
+    align-items: center;
+    justify-content:center;
+}
+
+.footer-text{
+    float: left;
+    text-align: center;
+    font-weight: 500;
+    width: 100%;
+    margin-top: 0px;
+}
+
+

@@ -1,0 +1,18 @@
+.cn{
+    width: auto;
+    height: 35px;
+    border-radius: 20px;
+    border: 1pz solid #999;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 999;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cn-icon{
+    width: 50px;
+    height: auto;
+}
